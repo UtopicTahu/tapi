@@ -12,6 +12,7 @@ int main(int argc, char** argv)
   OpenGL_Run();
   OpenCL_Run();
   Vulkan_Run();
+  return 0;
   //APIs_Error();
 } 
 
